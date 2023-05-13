@@ -8,3 +8,13 @@ NOTE: sadly I did not go too much into model initialization in the video lecture
 ### License
 
 MIT
+
+## Added step-by-step code along original Youtube timeline
+
+- bigram.py : port our code to a script (Section 7)
+- bigram2.py : inserting a single self-attention block to our network (Section 15)
+- bigram3.py : multi-headed self-attention (Section 16)
+- bigram4.py : feedforward layers of transformer block (Section 17)
+- bigram5.py : residual connections (Section 18)
+- bigram6.py : layernorm (and its relationship to our previous batchnorm) (Section 19)
+- bigram7.py : Full finished code, for reference (from [gpt-dev.ipynb](https://colab.research.google.com/drive/1JMLa53HDuA-i7ZBmqV7ZnA3c_fvtXnx-?usp=sharing#scrollTo=ZcvKeBXoZFOY))
